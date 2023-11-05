@@ -94,7 +94,7 @@ TestBaseModel class:
 [/test_models/test_file_storage.py](/tests/test_models/test_file_storage.py) - Contains the TestFileStorageDocs class:
 * `def setUpClass(cls)` - Set up for the doc tests
 * `def test_pep8_conformance_file_storage(self)` - Test that models/file_storage.py conforms to PEP8
-* `def test_pep8_conformance_test_file_storage(self)` - Test that tests/test_models/test_file_storage.py conforms to PEP8
+* `def test1_pep8_conformance_test_file_storage(self)` - Test that tests/test_models/test_file_storage.py conforms to PEP8
 * `def test_file_storage_module_docstring(self)` - Test for the file_storage.py module docstring
 * `def test_file_storage_class_docstring(self)` - Test for the FileStorage class docstring
 
